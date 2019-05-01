@@ -1,9 +1,11 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+- company: ABC Mobile
+  link: abcmobile.com
+  job_title: PHP developer
+  dates: Date Range (eg. August 2018 - present)
+#  quote: >
+#    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Billing system development. My position in this project PHP developer.
+    Responsibilities: back-end and front-end development? functional testing (PHPUnit).
+    Tech stack: Laravel, PostgreSQL, Clickhouse, MySQL, Yii2, etc.

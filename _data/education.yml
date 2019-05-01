@@ -1,8 +1,17 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Belarusian State University, Minsk, Belarus
+  dates: 2010 - 2015
+  qualification: Specialist
   quote: >
-    Short institution or course description (optional)
+    Physical optics
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Graduation project: Symmetry coordinates in the analysis of potential energy surfaces and vibrational states of BF3 and BH3
+
+# Education Template
+- name: Belarusian State University, Minsk, Belarus
+  dates: 2015 - 2016
+  qualification: Master
+  quote: >
+    Photonics
+  description: | # this will include new lines to allow paragraphs
+    Graduation project: Holographic recording of diffraction structures in photosensitive layers based on methacrylate polymers

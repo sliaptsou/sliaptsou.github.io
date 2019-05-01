@@ -2,7 +2,7 @@
 - company: ABC Mobile
   link: abcmobile.com
   job_title: PHP developer
-  dates: Date Range (eg. August 2018 - present)
+  dates: August 2018 - present
 #  quote: >
 #    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs

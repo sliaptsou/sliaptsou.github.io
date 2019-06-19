@@ -2,10 +2,10 @@
 - company: ABC Mobile
   link: abcmobile.com
   job_title: PHP developer
-  dates: August 2018 - present
+  dates: August 2018 - June 2019
 #  quote: >
 #    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Billing system development. My position in this project PHP developer.
-    Responsibilities: back-end and front-end development, functional testing (PHPUnit).
-    Tech stack: Laravel, PostgreSQL, Clickhouse, MySQL, Yii2, etc.
+    Responsibilities: development and supporting existing functional, refactoring existing code base, front-end development and supporting (Vue.js, JQuery), functional testing (PHPUnit);.
+    Tech stack: Laravel 5, Yii 2, Vue.js 2, JQuery, Git, PostgreSQL 11, Clickhouse, MySQL 5.7, etc.

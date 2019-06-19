@@ -1,21 +1,4 @@
 # Education Template
-- name: Belarusian State University, Minsk, Belarus
-  dates: 2010 - 2015
-  qualification: Specialist
-  quote: >
-    Physical optics
-  description: | # this will include new lines to allow paragraphs
-    Graduation project: Symmetry coordinates in the analysis of potential energy surfaces and vibrational states of BF3 and BH3
-
-# Education Template
-- name: Belarusian State University, Minsk, Belarus
-  dates: 2015 - 2016
-  qualification: Master
-  quote: >
-    Photonics
-  description: | # this will include new lines to allow paragraphs
-    Graduation project: Holographic recording of diffraction structures in photosensitive layers based on methacrylate polymers
-
 - name: HTP Educational Center
   dates: January 2018 - March 2018
   qualification: Trainee PHP developer
@@ -24,3 +7,20 @@
   description: | # this will include new lines to allow paragraphs
     Development HTML templates store backend. Responsibilities: вevelopment and supporting existing functional, bug fixing.
 
+  # Education Template
+- name: Belarusian State University, Minsk, Belarus
+  dates: July 2015 - June 2016
+  qualification: Master
+  quote: >
+    Photonics
+  description: | # this will include new lines to allow paragraphs
+    Graduation project: Holographic recording of diffraction structures in photosensitive layers based on methacrylate polymers
+
+  # Education Template
+- name: Belarusian State University, Minsk, Belarus
+  dates: July 2010 - June 2015
+  qualification: Specialist
+  quote: >
+    Physical optics
+  description: | # this will include new lines to allow paragraphs
+    Graduation project: Symmetry coordinates in the analysis of potential energy surfaces and vibrational states of BF3 and BH3

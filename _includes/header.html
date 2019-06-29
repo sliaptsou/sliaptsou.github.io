@@ -97,23 +97,14 @@
             </a>
           </li>
         {%- endif -%}				
+        {%- if site.email -%}
+          <li>
+            <a target="_blank" href="mailto:{{ site.email| escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-envelope" title="Email"></i>
+            </a>
+          </li>
+        {%- endif -%}
       </ul>
-
-      {%- if site.email -%}
-        <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
-        </p>
-      {%- endif -%} 
-      {%- if site.phone -%}
-        <p>
-          Phone: {{ site.phone | escape }}
-        </p>
-      {%- endif -%}
-      {%- if site.website -%}
-        <p>
-          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
-        </p>
-      {%- endif -%}
     </div>
   </div>
 </div>

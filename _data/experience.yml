@@ -6,12 +6,14 @@
   quote: >
     Mobile payments, VAS
   description: | # this will include new lines to allow paragraphs
-    Billing system development. My position on this project was a PHP developer.\n
+    Billing system development. My position on this project was a PHP developer.
+    
     Responsibilities:
       - development and supporting existing functional
       - refactoring existing code base
       - front-end development and supporting (Vue.js, JQuery)
-      - functional testing (PHPUnit)\n
+      - functional testing (PHPUnit)
+      
     Tech stack:
       - Laravel 5, Yii 2,
       - Vue.js 2, JQuery,

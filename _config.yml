@@ -8,6 +8,7 @@ title: PHP developer
 email: eysleptsov@gmail.com
 phone: +375 29 771-02-36
 skype: eysleptsov
+telegram: sjauheni
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
@@ -27,7 +28,7 @@ linkedin_username: sliapcou
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/jauhen.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name’s Yauheni and I’m a PHP developer. I am interested in natural sciences, economy and don`t have bad habits.
+  Hi, my name is Yauheni and I’m a PHP developer, but also, I am interested in web development on Golang. In General I am interested in natural sciences, economy and don`t have bad habits.
 
   I am most skilled in: PHP and Eating apple
 

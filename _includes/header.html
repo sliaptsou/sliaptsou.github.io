@@ -90,6 +90,16 @@
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
+	  {%- if site.skype -%}
+        <p>
+          Skype: <a href="skype:{{ site.skype }}?chat" target="_blank">{{ site.skype | escape }}</a>
+        </p>
+      {%- endif -%}
+	  {%- if site.telegram -%}
+        <p>
+          Skype: <a href="https://t.me/{{ site.telegram }}" target="_blank">{{ site.telegram | escape }}</a>
+        </p>
+      {%- endif -%}	  
       {%- if site.phone -%}
         <p>
           Phone: {{ site.phone | escape }}

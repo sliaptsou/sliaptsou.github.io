@@ -83,23 +83,27 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.skype -%}
+          <li>
+            <a target="_blank" href="skype:{{ site.skype }}?chat" class="button button--sacnite button--round-l">
+              <i class="fa fa-skype" title="Skype link"></i>
+            </a>
+          </li>
+        {%- endif -%}		
+        {%- if site.telegram -%}
+          <li>
+            <a target="_blank" href="https://t.me/{{ site.telegram| escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-telegram" title="Telegram link"></i>
+            </a>
+          </li>
+        {%- endif -%}				
       </ul>
 
       {%- if site.email -%}
         <p>
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
-      {%- endif -%}
-	  {%- if site.skype -%}
-        <p>
-          Skype: <a href="skype:{{ site.skype }}?chat" target="_blank">{{ site.skype | escape }}</a>
-        </p>
-      {%- endif -%}
-	  {%- if site.telegram -%}
-        <p>
-          Skype: <a href="https://t.me/{{ site.telegram }}" target="_blank">{{ site.telegram | escape }}</a>
-        </p>
-      {%- endif -%}	  
+      {%- endif -%} 
       {%- if site.phone -%}
         <p>
           Phone: {{ site.phone | escape }}

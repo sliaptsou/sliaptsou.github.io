@@ -1,4 +1,40 @@
 # Experience template
+- company: Aetsoft
+  link: aetsoft.by
+  job_title: Go developer
+  dates: August 2019 - present time
+  quote: >
+    WEB developent
+  description: | # this will include new lines to allow paragraphs
+    Development and supporting existing functional blockchain platform
+    
+    Responsibilities:
+      - development and supporting existing functional
+      - refactoring existing code base
+      
+    Tech stack:
+      - Go, Python, Bash
+      - MySQL, Postgres
+      - Git, Bitbucket & etc.
+
+- company: SolbegSoft
+  link: solbeg.com
+  job_title: PHP developer
+  dates: July 2019 - August 2019
+  quote: >
+    WEB developent
+  description: | # this will include new lines to allow paragraphs
+    Development and supporting existing functional several projects 
+    
+    Responsibilities:
+      - development and supporting existing functional
+      - refactoring existing code base
+      
+    Tech stack:
+      - Symfony 4
+      - MySQL 5.7
+      - Git, Bitbucket & etc.
+
 - company: ABC Mobile
   link: abcmobile.com
   job_title: PHP developer
@@ -15,7 +51,7 @@
       - functional testing (PHPUnit)
       
     Tech stack:
-      - Laravel 5, Yii 2,
+      - Laravel 5, Yii 2, Symfony 4
       - Vue.js 2, JQuery,
       - PostgreSQL 11, Clickhouse, MySQL 5.7
       - Git, GitHub & etc.

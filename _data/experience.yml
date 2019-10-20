@@ -4,35 +4,16 @@
   job_title: Go developer
   dates: August 2019 - present time
   quote: >
-    WEB developent
+    Fintech, blockchain
   description: | # this will include new lines to allow paragraphs
-    Development and supporting existing functional blockchain platform
-    
+
     Responsibilities:
-      - development and supporting existing functional
-      - refactoring existing code base
+      - Development and supporting existing functional;
+      - Refactoring of existing code base
       
     Tech stack:
       - Go, Python, Bash
-      - MySQL, Postgres
-      - Git, Bitbucket & etc.
-
-- company: SolbegSoft
-  link: solbeg.com
-  job_title: PHP developer
-  dates: July 2019 - August 2019
-  quote: >
-    WEB developent
-  description: | # this will include new lines to allow paragraphs
-    Development and supporting existing functional several projects 
-    
-    Responsibilities:
-      - development and supporting existing functional
-      - refactoring existing code base
-      
-    Tech stack:
-      - Symfony 4
-      - MySQL 5.7
+      - MariaDB, PostgreSQL
       - Git, Bitbucket & etc.
 
 - company: ABC Mobile

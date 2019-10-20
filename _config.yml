@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Yauheni Sliaptsou
-title: PHP developer
+title: Go developer
 email: eysleptsov@gmail.com
 # phone: +375 29 771-02-36
 skype: eysleptsov
@@ -26,11 +26,11 @@ linkedin_username: sliapcou
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/jauhen.jpg
+about_profile_image: images/jauhen_sliaptsou.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yauheni and I’m a PHP developer, but also, I am interested in web development on Golang. In General I am interested in natural sciences, economy and don`t have bad habits.
+  Hello, my name is Yauheni and I’m software engineer with proficiency in Golang and PHP, work with RDBMS. Now I`m very interested and highly motivated in improvement my professional skills in Golang, algorithms, data structures and Docker.
 
-  I am most skilled in: PHP and Eating apple
+  In general I`m interested in natural sciences, economy and don`t have bad habits.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

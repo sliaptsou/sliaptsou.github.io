@@ -30,7 +30,7 @@ about_profile_image: images/jauhen_sliaptsou.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Yauheni and I’m software engineer with proficiency in Golang and PHP, work with RDBMS. Now I`m very interested and highly motivated in improvement my professional skills in Golang, algorithms, data structures and Docker.
 
-  In general I`m interested in natural sciences, economy and don`t have bad habits.
+  In general I’m interested in natural sciences, economy and don’t have bad habits.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

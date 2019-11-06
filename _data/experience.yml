@@ -8,9 +8,11 @@
   description: | # this will include new lines to allow paragraphs
 
     Responsibilities:
-      - Development and supporting existing functional;
-      - Refactoring of existing code base
-      
+      - Development of complex server applications
+      - Integration of third-party services and API`s
+      - Support, optimization and development of current projects, including high-load ones      
+      - Maintenance of technical documentation
+
     Tech stack:
       - Go, Python, Bash
       - MariaDB, PostgreSQL
@@ -26,10 +28,10 @@
     Billing system development. My position on this project was a PHP developer.
     
     Responsibilities:
-      - development and supporting existing functional
-      - refactoring existing code base
-      - front-end development and supporting (Vue.js, JQuery)
-      - functional testing (PHPUnit)
+      - Development and supporting existing functional
+      - Refactoring existing code base
+      - Front-end development and supporting (Vue.js, JQuery)
+      - Functional testing (PHPUnit)
       
     Tech stack:
       - Laravel 5, Yii 2, Symfony 4

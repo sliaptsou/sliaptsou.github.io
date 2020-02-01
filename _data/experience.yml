@@ -1,6 +1,6 @@
 # Experience template
 - company: Aetsoft
-  link: aetsoft.by
+  link: aetsoft.net
   job_title: Golang Engineer
   dates: August 2019 - present time
   quote: >
@@ -15,8 +15,10 @@
 
     Tech stack:
       - Go, Python, Bash
-      - MariaDB, PostgreSQL
+      - PostgreSQL, MariaDB
       - Elasticsearch, Kibana
+      - Hyperledger Fabric, Hyperledger Sawtooth
+      - Docker, Docker Compose
       - Git, Bitbucket & etc.
 
 - company: ABC Mobile

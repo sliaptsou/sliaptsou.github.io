@@ -5,15 +5,15 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Yauheni Sliaptsou
 title: Go developer
-email: eysleptsov@gmail.com
-# phone: +375 29 771-02-36
+email: mail@sliaptsou.dev
+phone: +375 29 771-02-36
 skype: eysleptsov
 telegram: sjauheni
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  sliaptsou
+#github_username:  sliaptsou
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll

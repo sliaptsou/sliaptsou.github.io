@@ -2,7 +2,7 @@
 - company: Aetsoft
   link: aetsoft.net
   job_title: Golang Engineer
-  dates: August 2019 - present time
+  dates: August 2019 - April 2020
   quote: >
     Fintech, blockchain
   description: | # this will include new lines to allow paragraphs
@@ -16,10 +16,9 @@
     Tech stack:
       - Go, Python, Bash
       - PostgreSQL, MariaDB
-      - Elasticsearch, Kibana
-      - Hyperledger Fabric, Hyperledger Sawtooth
-      - Docker, Docker Compose
-      - Git, Bitbucket & etc.
+      - Elasticsearch, MongoDB
+      - Hyperledger: Fabric, Sawtooth, Besu
+      - Git, Docker, Docker Compose
 
 - company: ABC Mobile
   link: abcmobile.com
@@ -40,4 +39,4 @@
       - Laravel 5, Yii 2, Symfony 4
       - Vue.js 2, JQuery,
       - PostgreSQL 11, Clickhouse, MySQL 5.7
-      - Git, GitHub & etc.
+      - Git, Vagrant, Docker

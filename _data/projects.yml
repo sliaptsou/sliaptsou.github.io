@@ -1,8 +1,17 @@
 ## Project template
-#- name: Project name
+- name: Deployment pipeline
 #  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-#  quote: >
-#    Short overview of the project (optional)
-#  description: | # this will include new lines to allow paragraphs
-#    Description about the work on/with the project
+  github: sliaptsou/sa.it-academy.by/tree/m-sa2-12-20/Yauheni_Sliaptsou/17.Project
+  quote: >
+    Green deployment and upgrade application
+  description: | # this will include new lines to allow paragraphs
+    I started this project as a way if learning CI and it has since grown into a fully fledged deployment pipeline. Full description: https://bit.ly/2SeJvlt
+
+## Project template
+- name: Development website backend
+  #  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: sliaptsou/SiteBlank
+  quote: >
+    Development website templates store backend
+  description: | # this will include new lines to allow paragraphs
+    Developing a website templates free service SiteBlank for russian speaking small businesses which will be able to download a png or html template and optimize it to their final needs. Also small businesses can order a unique website developing according to their vision. Likewise SiteBlank will be a community for web designers who can personally or as co-authors provide their own templates and participate in unique-designed web-site developing.

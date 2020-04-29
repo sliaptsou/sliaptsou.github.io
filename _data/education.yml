@@ -1,5 +1,4 @@
-# Education Template
-- name: HTP Educational Center
+- name: Educational Center for Programming and High Tech
   dates: February 2020 - April 2020
   qualification: Trainee DevOps engineer
   quote: >
@@ -7,8 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     Сourse aims to studying: using continuous integration tools for implementing the team members requirements, deployment a complete software delivery system, automation of any processes within software development systems.
 
-# Education Template
-- name: HTP Educational Center
+- name: Educational Center for Programming and High Tech
   dates: January 2018 - March 2018
   qualification: Trainee PHP developer
   quote: >
@@ -16,7 +14,6 @@
   description: | # this will include new lines to allow paragraphs
     Development HTML templates store backend. Responsibilities: development and supporting existing functional, bug fixing.
 
-  # Education Template
 - name: Belarusian State University, Minsk, Belarus
   dates: July 2015 - June 2016
   qualification: Master
@@ -25,7 +22,6 @@
   description: | # this will include new lines to allow paragraphs
     Graduation project: Holographic recording of diffraction structures in photosensitive layers based on methacrylate polymers
 
-  # Education Template
 - name: Belarusian State University, Minsk, Belarus
   dates: July 2010 - June 2015
   qualification: Specialist

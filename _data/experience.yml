@@ -6,6 +6,7 @@
   quote: >
     Fintech, blockchain
   description: | # this will include new lines to allow paragraphs
+    Blockchain-based applications development.
 
     Responsibilities:
       - Development of complex server applications
@@ -14,16 +15,17 @@
       - Maintenance of technical documentation
 
     Tech stack:
-      - Go, Python, Bash
+      - Go, Bash
       - PostgreSQL, MariaDB
       - Elasticsearch, MongoDB
       - Hyperledger: Fabric, Sawtooth, Besu
       - Git, Docker, Docker Compose
+      - Linux: Debian, CentOS
 
 - company: ABC Mobile
   link: abcmobile.com
   job_title: PHP/Go developer
-  dates: August 2018 - June 2019
+  dates: June 2018 - June 2019
   quote: >
     Mobile payments, VAS
   description: | # this will include new lines to allow paragraphs
@@ -40,3 +42,27 @@
       - Vue.js 2, JQuery,
       - PostgreSQL 11, Clickhouse, MySQL 5.7
       - Git, Vagrant, Docker
+      - Linux: CentOS
+
+- company: b3x.by
+  link: b3x.by
+  job_title: PHP developer
+  dates: May 2017 - June 2018
+  quote: >
+    B2B, eCommerce
+  description: | # this will include new lines to allow paragraphs
+    eCommerce application development.
+
+    Responsibilities:
+      - Development and supporting existing functional
+      - Refactoring existing code base
+      - Front-end development and supporting (JQuery)
+      - Environment setup
+      - Functional testing (PHPUnit)
+
+    Tech stack:
+      - PHP 5,7: Laravel 5, 1C-Bitrix, Symfony 4
+      - JQuery,
+      - MySQL 5.7, Sphinx
+      - Git
+      - Linux: CentOS

@@ -28,9 +28,7 @@ linkedin_username: sliapcou
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/jauhen_sliaptsou.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am software engineer with proficiency in Golang, work with DBMS. Now I`m very interested and highly motivated in improvement my professional skills in Golang, AWS, Kubernetes, algorithms and data structures
-
-  I like solving complex problems. Highly interested in jobs with a creative teams which going to create something new and great while working in a comfort team-oriented environment. In general I’m interested in natural sciences, economy and don’t have bad habits.
+  Experienced software engineer with a demonstrated history of working in the IT industry, having a solid understanding of all stages of software development lifecycle. Interested and highly motivated in improvement professional skills. Communicative, responsible and result oriented. Fast learner and also a team player. I like solving complex problems. Highly interested in jobs with a creative teams which going to create something new and great while working in a comfort team-oriented environment.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
